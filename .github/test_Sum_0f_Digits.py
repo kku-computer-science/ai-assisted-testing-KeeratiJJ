@@ -1,5 +1,5 @@
 import unittest
-from Sum_of_Digits import get_sum_of_digits
+from sum_of_digits import get_sum_of_digits
 
 class TestSumOfDigits(unittest.TestCase):
     def test_single_digit_number(self):
